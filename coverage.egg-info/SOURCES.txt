@@ -1,0 +1,8 @@
+setup.py
+bin/get_coverages.py
+coverage/__init__.py
+coverage/coverage.py
+coverage.egg-info/PKG-INFO
+coverage.egg-info/SOURCES.txt
+coverage.egg-info/dependency_links.txt
+coverage.egg-info/top_level.txt
